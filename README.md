@@ -4,7 +4,7 @@
 
 Five-page site for a vehicle inspection station near Aleksinac, made for a quick call from the car, plus a private inventory PWA with live sync.
 
-**[stankovic964.rs](https://stankovic964.rs/)** · [Case study (in Serbian)](https://svilenkovic.com/radovi/tehnicki-pregled-stankovic) · [App page](https://svilenkovic.com/en/aplikacija-tehnicki-pregled) · [Srpski](README.sr.md)
+**[stankovic964.rs](https://stankovic964.rs/)** · [Case study (in Serbian)](https://svilenkovic.rs/radovi/tehnicki-pregled-stankovic) · [App page](https://svilenkovic.com/aplikacija-tehnicki-pregled) · [Srpski](README.sr.md)
 
 > [!NOTE]
 > Client project. The source code belongs to the client and stays in a private repository. This page describes what I built and how.
@@ -40,7 +40,7 @@ The first check after launch showed the page jumping badly while it loaded (a la
 | Mobile | 88 | 100 | 100 | 100 |
 | Desktop | 99 | 100 | 100 | 100 |
 
-PageSpeed Insights, lab test of the live site, September 2026. Security headers: 6 of 6. HTML validator: no errors. axe accessibility check: no violations. Structured data: `AutomotiveBusiness`.
+PageSpeed Insights, lab test of the live site, October 2026. Security headers: 6 of 6. HTML validator: no errors. axe accessibility check: no violations. Structured data: `AutomotiveBusiness`.
 
 ## Screenshots
 
